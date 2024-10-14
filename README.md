@@ -90,6 +90,7 @@ with socket.socket(socket.AF_INET, socket.SOCK_STREAM) as client_socket:
 
 ### CLIENT
 <img width="274" alt="Screen Shot 1946-07-22 at 11 27 11" src="https://github.com/user-attachments/assets/ede1e470-7988-4c9a-a64b-18e8ab6fd0ca">
+
 ## RESULT
 
 Thus, the python program for creating Chat using TCP Sockets Links was successfully 
